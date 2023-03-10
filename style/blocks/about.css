@@ -1,0 +1,30 @@
+.about{
+  margin-top: 152px;
+  height: 552px;
+}
+.about__container{
+  position: relative;
+}
+.about__img{
+  float: left;
+  width: 490px;
+  height: 505px;
+  left: 389px;
+  top: 2175px;
+  border-radius: 5px;  
+  background: url(../..//image/gates.jpg);
+}
+.about__content{
+  position: absolute;
+  width: 785px;
+  height: 455px;
+  background:url(../../image/mountains.jpg) ;
+  right: 0;
+  top: 97px;
+  padding-top: 70px;
+  padding-left: 81px;
+  padding-right: 81px;
+  padding-bottom: 66px;
+  border-radius: 5px;
+
+}
